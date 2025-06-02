@@ -1,39 +1,125 @@
-<h1 align=" center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=2D4882%20&text=Jhennifer%20Lima💤&reversal=true&fontColor=779ABF%20" >
-<h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#5c3ac9"/>
+
+<div align="center">
+  <samp>
+    <b>
+      システムアナリスト
+    </b>
+      <br>
+      Hi there! I'm Jhennifer Lima
+      <br>
+  </samp>
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwithjhenni&s=40&c=7451f0&bg=00000000&no=2&ff=digi&tb=visits%3A+&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/jhenni_!!-000000?style=flat-square" />
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=8647C3&center=true&width=435&lines=Hi%2C+welcome!;I'm+Brazilian+and...;Computer+Networks+Student)"/>
+</div>
+
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+  <br>
+
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=withjhenni&theme=midnight-purple&show_icons=true&hide_border=true"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=withjhenni&theme=midnight-purple&hide_border=true"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=withjhenni&theme=midnight_purple"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=withjhenni&theme=midnight-purple&card_width=885&hide_border=true"
+  />
+  </div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/aws.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  
+</div>
+
+<br>
+
+##
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jhenniferbarros146@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/jhenniferlima0)
+  
+</div>
+
+<div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sawarabi+Gothic&size=25&pause=1000&color=779ABF&width=435&lines=Monitoramento(SOC)+%7C+Firewall+%7C+Cloud">
-</p>
-
-## SOBRE MIM
-<img align="right" height="190" src="https://i.pinimg.com/originals/35/d8/30/35d8300e418ae13d78294cf919704d62.gif"> 
-
-Olá! Sou Jhennifer, ou simplesmente Jhenni, tenho 19 anos e sou estudante de Redes de Computadores, com grande paixão por Cibersegurança. Estou dando os primeiros passos na área e muito motivada a construir uma carreira sólida, aplicando meus conhecimentos para proteger sistemas e dados de ameaças digitais.
-Fora do mundo técnico, curto jogos, filmes, séries, música e mangás — meus hobbies favoritos para relaxar e me manter criativa e equilibrada.
-
-_ **A coragem está um passo à frente do medo - Coleman Young**
-
-<br>
-<br>
-<br>
-
-
-
-
-
----
-
-## TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,aws,azure,grafana,linkedin">
+      <samp>
+        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="www.linkedin.com/in/jhenniferlima0">linktr.ee</a> ⊹
+        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
   </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624">
-    <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0">
-    <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img src="">
-    </p>
+
+</div>
+
+##
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#5c3ac9"/>
