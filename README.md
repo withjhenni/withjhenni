@@ -1,5 +1,3 @@
-(PT-BR)
-
 # Olá! 👋  
 
 Eu sou a Jhennifer, estudante de Redes de Computadores no Brasil 🇧🇷  
@@ -31,44 +29,9 @@ Gosto de transformar teoria em prática criando laboratórios e projetos reais f
 
 ## 📫 Como falar comigo
 
-- LinkedIn: (coloque seu link aqui)  
-- Email: (seu email profissional)  
+- LinkedIn: www.linkedin.com/in/jhenniferlima0/
+- Email: jhenniferlima119@gmail.com 
 
 ---
 
-(EN-US)
-
-# Hey there! 👋  
-
-I'm Jhennifer, a Computer Networks student based in Brazil 🇧🇷  
-I work with Infrastructure, Cloud Computing, and Information Security.
-
-I enjoy turning theory into practice by building real-world labs and projects focused on architecture, monitoring, availability, and security.
-
----
-
-## 🚀 Currently working on:
-
-- AWS and Azure projects  
-- Multi-cloud environments and cloud integration  
-- Infrastructure monitoring and observability  
-- Backup and security best practices implementation  
-- Hands-on cloud architecture labs  
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Cloud:** AWS, Microsoft Azure  
-- **Monitoring & Observability:** Zabbix, Grafana, Prometheus  
-- **Backup:** Veeam, Acronis  
-- **Firewall & Networking:** FortiGate, NAT, VPN, SD-WAN  
-- **Systems:** Linux and Windows Server  
-
----
-
-## 📫 How to reach me
-
-- LinkedIn: (add your link here)  
-- Email: (your professional email)
-- 
+✨ Sempre aprendendo. Sempre construindo.
