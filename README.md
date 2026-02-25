@@ -1,4 +1,4 @@
-# Olá! 👋  
+# Olá pessoas! 👋  
 
 Eu sou a Jhennifer, estudante de Redes de Computadores no Brasil 🇧🇷  
 Atuo com Infraestrutura, Cloud Computing e Segurança da Informação.
