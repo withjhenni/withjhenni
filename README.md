@@ -1,7 +1,7 @@
 # Oii pessoas! 👋  
 
 Eu sou a Jhennifer, estudante de Redes de Computadores no Brasil 🇧🇷  
-Atuo com Infraestrutura, Cloud Computing e Segurança da Informação.
+Dedico-me à Infraestrutura, Cloud Computing e Segurança da Informação.
 
 Gosto de transformar teoria em prática criando laboratórios e projetos reais focados em arquitetura, monitoramento, disponibilidade e segurança.
 
